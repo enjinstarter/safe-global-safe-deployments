@@ -1,6 +1,6 @@
 {
   "name": "@enjinstarter/safe-global-safe-deployments",
-  "version": "1.16.0+ejs.0.1.0",
+  "version": "1.16.0-ejs.0.1.0",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/enjinstarter/safe-global-safe-deployments/",
   "license": "MIT",
